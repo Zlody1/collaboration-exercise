@@ -1,1 +1,2 @@
-This is the initial feature from Account 1
+This is the initial feature from Account 1 
+changed by account 2
